@@ -22,7 +22,7 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-
+```
 ## OUTPUT
 ![442374359-6cd42ff7-8381-4f92-ba08-9b6bfe68ff36](https://github.com/user-attachments/assets/2c3cb782-2233-4dd5-b04f-5fbe511a204b)
 
